@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "reSave",
-    "slug": "reSave",
+    "name": "Ledgely",
+    "slug": "Ledgely",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "resave",
+    "scheme": "ledgely",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
