@@ -1,10 +1,7 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   // NOTE: Include the paths to all files that contain NativeWind classes.
-  content: [
-    "./app/**/*.{js,jsx,ts,tsx}",
-    "./components/**/*.{js,jsx,ts,tsx}",
-    "./**/*.{js,jsx,ts,tsx}",
-  ],
+  content: ["./app/**/*.{js,jsx,ts,tsx}", "./components/**/*.{js,jsx,ts,tsx}"],
   // NativeWind preset is required so NativeWind can process Tailwind config correctly
   presets: [require("nativewind/preset")],
   theme: {
