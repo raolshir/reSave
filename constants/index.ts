@@ -34,6 +34,7 @@ import signUpCar from "@/assets/images/signup-car.png";
 import slide_1 from "@/assets/images/slide_1.jpg";
 import slide_2 from "@/assets/images/slide_2.jpg";
 import slide_3 from "@/assets/images/slide_3.jpg";
+import signupLogo from "@/assets/images/signupLogo.png";
 
 export const images = {
   onboarding1,
@@ -47,6 +48,7 @@ export const images = {
   check,
   noResult,
   message,
+  signupLogo,
 };
 
 export const icons = {
